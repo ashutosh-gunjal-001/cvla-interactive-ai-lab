@@ -4,12 +4,8 @@
 
 ---
 
-## 🌐 Live Demo & Showcase
-
-- 🧪 **Live App (Coming Soon)**: [Try the CVLA Lab](https://example.com)
-- 📘 **Project Documentation**: [View on Google Drive](https://example.com)
-- 🎬 **Video Demonstration**: [Watch Demo](https://example.com)
-- 💡 **Model Showcase (HF/Replicate)**: [Explore AI Models](https://example.com)
+## 🌐 Documentation:
+https://drive.google.com/file/d/1ZDmShr00OD6v9GDcbs3c0Q-g8XAda4w1/view?usp=drive_link
 
 ---
 
