@@ -26,10 +26,13 @@ https://drive.google.com/file/d/1ZDmShr00OD6v9GDcbs3c0Q-g8XAda4w1/view?usp=drive
 - Streamlit
 
 **Backend & AI Models:**  
-- FastAPI (optional)  
-- Hugging Face Spaces (Gradio-based demos)  
-- ONNX for lightweight inference  
-- Replicate / Ollama for on-demand LLM/AI tools
+streamlit==1.32.0
+numpy==1.26.4
+matplotlib==3.8.2
+sympy==1.12
+plotly==5.19.0
+pillow==10.2.0
+scipy==1.12.0 
 
 **Hosting Services:**  
 - Vercel (Frontend Deployment)  
