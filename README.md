@@ -23,10 +23,7 @@ https://drive.google.com/file/d/1ZDmShr00OD6v9GDcbs3c0Q-g8XAda4w1/view?usp=drive
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-- React.js (Next.js 14)  
-- TailwindCSS  
-- Plotly.js, Three.js, Math.js, KaTeX  
-- Streamlit (for Python-based alternate UIs)
+- Streamlit
 
 **Backend & AI Models:**  
 - FastAPI (optional)  
